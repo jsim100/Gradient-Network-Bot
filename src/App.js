@@ -5,6 +5,7 @@ import SignIn from "./pages/SignIn";
 import ForgotPassword from "./pages/ForgotPassword";
 import Offers from "./pages/Offers";
 import SignUp from "./pages/SignUp";
+import Header from "./components/Header";
 
 
 const App = () => {
@@ -12,7 +13,8 @@ const App = () => {
   return (
   <>
   <Router>
-    <Routes>
+    <Header/>
+    <Routes>  
       <Route path="/" element={<Home/>}/>
       <Route path="/profile" element={<Profile/>}/>    
       <Route path="/sign-in" element={<SignIn/>}/> 
