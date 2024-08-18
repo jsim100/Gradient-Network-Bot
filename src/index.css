@@ -2,7 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-
-header {
-    max-width: 1152px;
+body {
+    background-color: rgb(240, 253, 244);
 }

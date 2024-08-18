@@ -17,15 +17,16 @@ const Header = () => {
             </div>
             <div>
                 <ul className="flex space-x-10">
-                    <li className={`cursor-pointer py-3 text-sm font-semibold border-b-[3px] border-b-transparent text-gray-400 ${pathMatchRoute('/') && "text-black border-b-red-500"}`} onClick={() => navigate('/')}> Home</li>
-                    <li className={`cursor-pointer py-3 text-sm font-semibold border-b-[3px] border-b-transparent text-gray-400 ${pathMatchRoute('/offers') && "text-black border-b-red-500"}`} onClick={() => navigate('/offers')}>Offers</li>
-                    <li className={`cursor-pointer py-3 text-sm font-semibold border-b-[3px] border-b-transparent text-gray-400 ${pathMatchRoute('/sign-in') && "text-black border-b-red-500"}`} onClick={() => navigate('sign-in')}>Sign in</li>
+                    <li className={` cursor-pointer py-3 text-sm font-semibold  border-b-[3px]  ${pathMatchRoute('/') ? "text-black border-b-red-500" : " border-b-transparent  text-gray-400"}`} onClick={() => navigate('/')}>Home</li>
+
+                    <li className={`cursor-pointer py-3 text-sm font-semibold border-b-[3px]  ${pathMatchRoute('/offers') ? "text-black border-b-red-500" : " border-b-transparent  text-gray-400"}`} onClick={() => navigate('/offers')}>Offers</li>
+                    <li className={`cursor-pointer py-3 text-sm font-semibold  border-b-[3px]  ${pathMatchRoute('/sign-in') ? "text-black border-b-red-500" : " border-b-transparent  text-gray-400"}`} onClick={() => navigate('/sign-in')}>Sign In</li>
                 </ul>
+
+
             </div>
         </header >
-
-
-    </div >;
+    </div >
 };
 
 export default Header;
